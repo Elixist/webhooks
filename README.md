@@ -1,2 +1,1 @@
-# webhooks
-Rules
+# Rules
